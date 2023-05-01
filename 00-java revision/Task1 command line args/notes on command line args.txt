@@ -1,0 +1,16 @@
+first u must compilke the code to be able to run it first by 
+1- go to the folder poath
+2- use the java compiler key word; "javac"  
+
+ie, $ javac HelloGoodbye.java           --- extention is important to write and it is case sensitive 
+
+3- afer the co,pilimng process done it creates a class file thatz is ready to bre compiled 
+4- run the program by using this tiome the "java" keyword instead of "javac"  
+
+ie, $ java HelloGoodbye.java
+
+
+Nooooooteeeeee
+-------------------
+the args here start with "zero" not 1 as in C 
+
